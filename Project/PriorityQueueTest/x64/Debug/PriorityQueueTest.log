@@ -1,0 +1,6 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(2176,5): warning : The referenced project '..\..\INFO3135\Week4\Project1_Starting_Point_v1.2.0\PriorityQueue\PriorityQueue.vcxproj' does not exist.
+  patient_tests.cpp
+  priority_queue_tests.cpp
+  test.cpp
+  Generating Code...
+  PriorityQueueTest.vcxproj -> C:\Users\bdunl\Desktop\School Fall\Data Structures and algorithms\Project 1\Project\x64\Debug\PriorityQueueTest.exe

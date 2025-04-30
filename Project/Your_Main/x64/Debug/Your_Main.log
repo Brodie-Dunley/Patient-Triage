@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\bdunl\Desktop\School Fall\Data Structures and algorithms\Project 1\Project\Your_Main\main.cpp(314,39): warning C4101: 'e': unreferenced local variable
+C:\Users\bdunl\Desktop\School Fall\Data Structures and algorithms\Project 1\Project\Your_Main\main.cpp(332,40): warning C4101: 'e': unreferenced local variable
+  Your_Main.vcxproj -> C:\Users\bdunl\Desktop\School Fall\Data Structures and algorithms\Project 1\Project\x64\Debug\Your_Main.exe
